@@ -168,7 +168,12 @@ def vector_reproject():
     raise NotImplementedError('psschand Implement Me!')
 
     ## Some sample code to reproject a geojson
+@app.route('/surya/test/psschand/1')
+def vector_reproject():
 
+    raise NotImplementedError('psschand Implement Me! 1')
+
+    ## Some sample code to reproject a geojson
  
 
 if __name__ == '__main__':
