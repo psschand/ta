@@ -162,6 +162,12 @@ def vector_reproject():
       }
     }
 
+@app.route('/vector/psschand16')
+def vector_reproject():
+
+    raise NotImplementedError('psschnad16 Implement Me!')
+
+    ## Some sample code to reproject a geojson
 
 if __name__ == '__main__':
     # Bind on all interfaces so that we can easily
